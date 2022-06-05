@@ -55,8 +55,10 @@ https://www.filehorse.com/download-anaconda-64/download/ <br>
 - 1.3 - Setting Virtual Environment 
 https://drive.google.com/file/d/11DD9TefmGKzvc6_jADen38FgYlbfu9Bi/view?usp=sharing <br>
 Extract mrcnn1.zip file in the `c/users/user/anaconda3/envs folder`.<br>
-- 1.4 - Open anaconda prompt in the `Runway_detection` folder<br>
-- 1.5 - Adding data set
+- 1.4 - Download and extract the `Runway_detection` folder<br>
+https://drive.google.com/file/d/1luNq6HKa0KEIYgcKOlcoM4oBOP_FLIde/view?usp=sharing
+- 1.5 - Open anaconda prompt in the `Runway_detection` folder<br>
+- 1.6 - Adding data set
 https://1drv.ms/u/s!AmgKYzARBl5ca3HNaHIlzp_IXjs <br>
 Extract NWPU-RESISC45.rar file to the `Runway_detection` folder.<br>
 
