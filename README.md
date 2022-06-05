@@ -6,12 +6,13 @@ In this project, our objective was to build a vision based system using deep lea
 
 ## Features
 - Runway Detection and Localization:
-Purpose: The program will detect if there is a runway in an image and localize it.
-Input: Image imported from system to be tested.
-Output: If runway detected:
-			The same image with a blue shade highlighting the runway is displayed.
-	    If runway not detected:
-			A message showing ”runway not detected” is displayed.<br>
+Purpose: The program will detect if there is a runway in an image and localize it.<br>
+Input: Image imported from system to be tested.<br>
+Output: 
+- If runway detected:<br>
+The same image with a blue shade highlighting the runway is displayed. <br>
+- If runway not detected: <br>
+A message showing ”runway not detected” is displayed. <br>
 
 ## How this works?
 The Runway detection and Localization System works in two modules:
